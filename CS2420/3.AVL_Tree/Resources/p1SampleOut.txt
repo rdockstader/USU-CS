@@ -1,0 +1,69 @@
+findLadder oops pops
+Partial Solutions
+[oops]
+
+This ladder size1
+One Away from oops 
+bops cops fops hops kops lops mops pops sops tops 
+wops oohs oots 
+Partial Solutions
+[oops,bops][oops,cops][oops,fops][oops,hops][oops,kops][oops,lops][oops,mops][oops,pops][oops,sops][oops,tops]
+[oops,wops][oops,oohs][oops,oots]
+
+This ladder size2
+One Away from bops 
+boas bobs bods bogs boos boss bots bows boys 
+Partial Solutions
+[oops,cops][oops,fops][oops,hops][oops,kops][oops,lops][oops,mops][oops,pops][oops,sops][oops,tops][oops,wops]
+[oops,oohs][oops,oots][oops,bops,boas][oops,bops,bobs][oops,bops,bods][oops,bops,bogs][oops,bops,boos][oops,bops,boss][oops,bops,bots][oops,bops,bows]
+[oops,bops,boys]
+
+This ladder size2
+One Away from cops 
+caps ceps cups cobs cods cogs cols cons coos coss 
+cots cows coys cope copy 
+Partial Solutions
+[oops,fops][oops,hops][oops,kops][oops,lops][oops,mops][oops,pops][oops,sops][oops,tops][oops,wops][oops,oohs]
+[oops,oots][oops,bops,boas][oops,bops,bobs][oops,bops,bods][oops,bops,bogs][oops,bops,boos][oops,bops,boss][oops,bops,bots][oops,bops,bows][oops,bops,boys]
+[oops,cops,caps][oops,cops,ceps][oops,cops,cups][oops,cops,cobs][oops,cops,cods][oops,cops,cogs][oops,cops,cols][oops,cops,cons][oops,cops,coos][oops,cops,coss]
+[oops,cops,cots][oops,cops,cows][oops,cops,coys][oops,cops,cope][oops,cops,copy]
+
+This ladder size2
+One Away from fops 
+fobs foes fogs fons foss foys 
+Partial Solutions
+[oops,hops][oops,kops][oops,lops][oops,mops][oops,pops][oops,sops][oops,tops][oops,wops][oops,oohs][oops,oots]
+[oops,bops,boas][oops,bops,bobs][oops,bops,bods][oops,bops,bogs][oops,bops,boos][oops,bops,boss][oops,bops,bots][oops,bops,bows][oops,bops,boys][oops,cops,caps]
+[oops,cops,ceps][oops,cops,cups][oops,cops,cobs][oops,cops,cods][oops,cops,cogs][oops,cops,cols][oops,cops,cons][oops,cops,coos][oops,cops,coss][oops,cops,cots]
+[oops,cops,cows][oops,cops,coys][oops,cops,cope][oops,cops,copy][oops,fops,fobs][oops,fops,foes][oops,fops,fogs][oops,fops,fons][oops,fops,foss][oops,fops,foys]
+
+
+This ladder size2
+One Away from hops 
+haps hips hyps hobs hods hoes hogs hols hons hots 
+hows hoys hope 
+This ladder size2
+One Away from kops 
+keps kips koas kobs kors koss koph 
+This ladder size2
+One Away from lops 
+laps lips lobs logs loos loss lots lows lope 
+This ladder size2
+One Away from mops 
+maps moas mobs mods mogs mols moms mons moos mors 
+moss mots mows mope mopy 
+This ladder size2
+
+Congrats
+oops
+pops
+
+******************
+
+findLadder delta ovoid
+Partial Solutions
+[delta]
+
+This ladder size1
+One Away from delta 
+Sorry could not find ladder
